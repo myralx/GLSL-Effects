@@ -1,9 +1,9 @@
 #version 330
 
-const vec2 vp = vec2(320, 200);
 out vec4 color; // Current pixel color
 uniform float time; // Create float time
-uniform vec2 resolution; // Gets resolution from Plasma.cs
+uniform vec2 resolution; // Gets resolution from Effect Launcher.cs
+const vec2 vp = vec2(320, 200);
 
 void main()
 {

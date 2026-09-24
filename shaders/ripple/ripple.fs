@@ -17,7 +17,7 @@ void main()
 
     float x = centre.x - uv.x;
     float y = (centre.y - uv.y) * aspectRatio; 
-    // Distance from centre
+    // Distance of current pixel from centre
 
     float distanceFromCentre = -(x * x + y * y); // Distance ripple is from centre
     

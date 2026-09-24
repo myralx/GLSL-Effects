@@ -30,12 +30,12 @@ void main()
 
         );
 
-// Colors
-float colorValue = sum * 3.0; // Higher = more color!
+    // Colors
+    float colorValue = sum * 3.0; // Higher = more color!
 
-float red   = 0.5 + 0.5 * sin(colorValue);
-float green = 0.5 + 0.5 * sin(colorValue + 2.0);
-float blue  = 0.5 + 0.5 * sin(colorValue + 4.0);
+    float red   = 0.5 + 0.5 * sin(colorValue);
+    float green = 0.5 + 0.5 * sin(colorValue + 2.0);
+    float blue  = 0.5 + 0.5 * sin(colorValue + 4.0);
 
-color = vec4(red, green, blue, 1.0);
+    color = vec4(red, green, blue, 1.0);
 }

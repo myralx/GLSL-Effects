@@ -30,12 +30,12 @@ This effect creates a pattern by measuring the distance of each pixel from the c
 **Credits**
 - [Shadertoy](https://www.shadertoy.com/view/ldX3zr)
 
-## Vortex
+## Swirl
 
 This effect creates an angle, based off the screen position. Sine waves are utilised again to create the repeating bands of color, with the angle distorted over time to produce the twisting motion. Similar to the ripple effect, but also quite different. 
 
 <p align="center">
-    <img src="shaders/vortex/vortex.gif" width="800">
+    <img src="shaders/swirl/swirl.gif" width="800">
 </p>
 
 **Credits**

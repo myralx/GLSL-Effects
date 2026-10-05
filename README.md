@@ -67,10 +67,6 @@ This is a procedural fire effect created by combining multiple layers of noise. 
 
 This effect creates a classic tunnel effect, commonly seen in old school demos, by converting each pixel into a distance from the centre and an angle around it. These values are then animated to give the illusion of movement, even without any actual 3D geometry.
 
-A classic demoscene-style tunnel created using polar coordinate mapping.
-
-Instead of using real 3D geometry, each pixel is mapped using its distance from the centre and its angle around the tunnel.
-
 <p align="center">
     <img src="shaders/tunnel/tunnel.gif" width="800">
 </p>

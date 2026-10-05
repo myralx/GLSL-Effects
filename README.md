@@ -50,7 +50,7 @@ This effect creates a layered starfield, using randomly positioned stars moving 
 </p>
 
 **Credits**
-- [Shadertoy] (https://www.shadertoy.com/view/tllfRX)
+- [Shadertoy](https://www.shadertoy.com/view/tllfRX)
 
 ## Fire
 

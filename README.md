@@ -1,4 +1,4 @@
-# Raylib Effects
+# GLSL Effects
 
 A collection of various graphic effects made mostly with GLSL. 
 The launcher was made in C#, using raylib as a graphics library.

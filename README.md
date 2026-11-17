@@ -74,6 +74,17 @@ This effect creates a classic tunnel effect, commonly seen in old school demos, 
 **Credits**
 - [lodev](https://lodev.org/cgtutor/tunnel.html)
 
+## Box Tunnel
+
+This is a tunnel effect created by repeating groups of boxes in 3D space. The outer boxes grow as they spread apart and shrink as they move back towards the centre. The shader uses raymarching to render the scene, building up more glow as rays pass near a box’s surface.
+
+<p align="center">
+    <img src="shaders/box-tunnel/box-tunnel.gif" width="800">
+</p>
+
+**Credits**
+- [Shadertoy](https://www.shadertoy.com/view/tlVGDt)
+
 # Using the launcher
 
 To use the effect launcher open a terminal in the effects folder.
@@ -90,12 +101,11 @@ Or launch a specific effect directly by typing the effect name:
 dotnet run -- plasma
 ```
 
-# Other useful resources
-
-https://thebookofshaders.com/01/
-https://openglbook.com/chapter-0-preface-what-is-opengl.html
-https://www.flipcode.com/archives/The_Art_of_Demomaking-Issue_01_Prologue.shtml
-https://learnopengl.com/
-https://www.4rknova.com/blog/2016/11/01/plasma
-https://aarondevelops.com/game-engine-shaders-101/
+# Other resources I found useful:
+https://thebookofshaders.com/01/ \
+https://openglbook.com/chapter-0-preface-what-is-opengl.html \
+https://www.flipcode.com/archives/The_Art_of_Demomaking-Issue_01_Prologue.shtml \
+https://learnopengl.com/ \
+https://www.4rknova.com/blog/2016/11/01/plasma \
+https://aarondevelops.com/game-engine-shaders-101/ \
 https://lodev.org/cgtutor/ 

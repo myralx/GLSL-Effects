@@ -85,6 +85,17 @@ This is a tunnel effect created by repeating groups of boxes in 3D space. The ou
 **Credits**
 - [Shadertoy](https://www.shadertoy.com/view/tlVGDt)
 
+## Fractal
+
+This is a fractal effect created by raymarching a set of rotating and twisting points. 
+
+<p align="center">
+    <img src="shaders/fractal/fractal.gif" width="800">
+</p>
+
+**Credits**
+- [Shadertoy](https://www.shadertoy.com/view/tsXBzS)
+
 # Using the launcher
 
 To use the effect launcher open a terminal in the effects folder.
